@@ -1,0 +1,7 @@
+# Core functionality - changes here should be rare!
+/src/app.py                   @vinvincodes
+/src/backend/database.py      @vinvincodes
+/src/backend/routers/auth.py  @vinvincodes
+
+# The frontend will need refactored soon to be more object oriented.
+/src/static/   @vinvincodes
